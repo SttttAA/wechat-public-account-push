@@ -41,7 +41,7 @@ export const config = {
     // 所在省份
     PROVINCE: "甘肃",
     // 所在城市
-    CITY: "陇南市",
+    CITY: "陇南",
 
     /** 重要节日相关 */
 
