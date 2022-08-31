@@ -23,7 +23,7 @@ export const config = {
     // }]
     USERS: [
       {name: '哈喽', id: "oK0oj57woJO2F6gdUc1gmgtHklfw"}, 
-      {name: '老婆1', id: "2hxOO6VskYv0Kuf-y你懂的,填错狗头打烂RMpuXhk"}, 
+      {name: '哈喽', id: "oK0oj52numvJanYTzzUbvWjjouug"}, 
       {name: '老婆2', id: "3hxOO6VskYv0Kuf-yw你懂的,填错狗头打烂2RMpuXhk"}, 
       {name: '老婆3', id: "4hxOO6VskYv0Kuf-ywI你懂的,填错狗头打烂MpuXhk"}, 
     ],
@@ -39,9 +39,9 @@ export const config = {
     /** 天气相关 */
 
     // 所在省份
-    PROVINCE: "甘肃",
+    PROVINCE: "陇南",
     // 所在城市
-    CITY: "兰州",
+    CITY: "陇南",
 
     /** 重要节日相关 */
 
@@ -63,7 +63,7 @@ export const config = {
     /** 日期相关 */
 
     // 在一起的日子，格式同上
-    LOVE_DATE: "2015-05-01",
+    LOVE_DATE: "2022-08-31",
     // 结婚纪念日
     MARRY_DATE: "2020-01-04",
 
