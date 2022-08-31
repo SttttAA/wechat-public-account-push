@@ -39,7 +39,7 @@ export const config = {
     /** 天气相关 */
 
     // 所在省份
-    PROVINCE: "兰州",
+    PROVINCE: "甘肃",
     // 所在城市
     CITY: "七里河",
 
