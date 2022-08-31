@@ -39,9 +39,9 @@ export const config = {
     /** 天气相关 */
 
     // 所在省份
-    PROVINCE: "陇南",
+    PROVINCE: "甘肃",
     // 所在城市
-    CITY: "陇南",
+    CITY: "陇南市",
 
     /** 重要节日相关 */
 
